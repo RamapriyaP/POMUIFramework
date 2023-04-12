@@ -8,6 +8,8 @@ import com.w3schools.pages.LoginPage;
 
 public class LoginTest extends LoginPage {
 	
+	//This test case is to check the functionality of login in W3schools
+	
 	@Test
 	public void loginW3Schools()
 	{
