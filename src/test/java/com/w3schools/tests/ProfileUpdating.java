@@ -7,7 +7,7 @@ import com.w3schools.pages.ProfilePage;
 
 public class ProfileUpdating extends LoginTest {
 	
-
+// This test case to to validate profile update
 	@Test
 	public void profileUpdating() {
 		
